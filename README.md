@@ -34,18 +34,18 @@ A full-stack web application to track your video game collection. Users can add,
 
 **Install Node Modules (THIS IS NEEDED FOR PROJECT TO RUN)**
 
-How to Run the Project
+How to Run the Project:
 
-Open the terminal in your project folder (the folder that has package.json).
+1: Open the terminal in your project folder.
 
-Install the dependencies (this will create the node_modules folder):
+2: Install the dependencies (this will create the node_modules folder):
 
-npm install
+3: npm install
 
-Start the server:
+4: Start the server:
 
-npm run start
+5: npm run start
 
-Open your browser and go to:
+6: Open your browser and go to:
 
-http://localhost:5000
+7: http://localhost:5000
