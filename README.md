@@ -32,7 +32,7 @@ A full-stack web application to track your video game collection. Users can add,
 
 2. **Open the project folder** in **Visual Studio Code**  
 
-**Install Node Modules**
+**Install Node Modules (THIS IS NEEDED FOR PROJECT TO RUN)**
 
 Open the terminal in your project folder (the folder with package.json).
 
